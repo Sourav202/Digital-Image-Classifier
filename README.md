@@ -1,4 +1,4 @@
-NAME: Sourav Minhas
+THIS WAS DONE AS A PROJECT IN COMP3105 NAME: Sourav Minhas
 
 INSTALL INSTRUCTIONS: 
 pip install numpy
